@@ -1,10 +1,10 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-#include "BaseContainer.h"
-#include "SimpleVector.h"
-#include "SinglyLinkedList.h"
-#include "DoublyLinkedList.h"
+#include "baseContainer.h"
+#include "simpleVector.h"
+#include "singlyLinkedList.h"
+#include "doublyLinkedList.h"
 
 // Функция для демонстрации всех операций из задания
 template <typename Container>
